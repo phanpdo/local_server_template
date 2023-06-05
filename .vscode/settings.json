@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#001aff",
+        "tab.inactiveModifiedBorder": "#ff0000",
+        "tab.activeModifiedBorder": "#ff0000"
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true
+}
